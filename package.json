@@ -1,0 +1,26 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "curso para aprender node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsantamaria2505/curso_node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm"
+  ],
+  "author": "Luis Santamaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsantamaria2505/curso_node/issues"
+  },
+  "homepage": "https://github.com/jsantamaria2505/curso_node#readme",
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  }
+}
